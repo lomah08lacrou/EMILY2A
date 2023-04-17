@@ -1,9 +1,9 @@
 body{
-    background-color:#white;
+    background-color: gold;
 }
 
 .cabecalho{
-    background-color: #yellow;
+    background-color:gold;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,8 +13,8 @@ body{
     display: inline;
     }
     .cabecalho__imagem {
-    width: 80px;
-    height: 40px;
+    width: 100px;
+    height: 80px;
     }
     .cabecalho__menu{
     display: inline;
