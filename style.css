@@ -1,6 +1,9 @@
 body{
-    background-color:#yellow
-    }
+    background: #yellow;
+}
+
+.cabecalho{
+    background-color: nome_da_cor_do_cabecalho;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -21,5 +24,3 @@ body{
     margin-right: 150px;
     font-size: 25px;
     }
-    background-color: gold;
-}
