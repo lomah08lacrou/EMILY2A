@@ -1,9 +1,9 @@
 body{
-    background-color:yellow;
+    background-color:azure;
 }
 
 .cabecalho{
-    background-color:aliceblue
+    background-color:yellow
     display: flex;
     justify-content: space-around;
     align-items: center;
