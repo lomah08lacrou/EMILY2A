@@ -13,8 +13,8 @@ body{
     display: inline;
     }
     .cabecalho__imagem {
-    width: dimensões_do_Figma_px;
-    height: dimensões_do_Figma_px;
+    width: 140px;
+    height: 80px;
     }
     .cabecalho__menu{
     display: inline;
