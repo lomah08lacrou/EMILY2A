@@ -3,7 +3,7 @@ body{
 }
 
 .cabecalho{
-    background-color:;
+    background-color:gold;
     display: flex;
     justify-content: space-around;
     align-items: center;
