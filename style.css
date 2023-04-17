@@ -1,9 +1,9 @@
 body{
-    background: #yellow;
+    background-color:#white;
 }
 
 .cabecalho{
-    background-color: nome_da_cor_do_cabecalho;
+    background-color: #yellow;
     display: flex;
     justify-content: space-around;
     align-items: center;
